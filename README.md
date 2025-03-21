@@ -18,6 +18,10 @@ CSS – Styling and layout customization
 
 JavaScript – Handling dynamic elements and interactivity
 
+## Project Website
+
+https://amazonindiaclone.netlify.app/
+
 ## Screenshots
 
 ![pic2](https://github.com/user-attachments/assets/f0764bce-08ba-46ea-a0d0-021549fea0f0)
